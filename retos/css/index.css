@@ -98,7 +98,8 @@
 .footer-nav_link:hover{
     transform: scale(1.25) rotate(360deg);
     filter: brightness(200%);
-}
-.footer-nav__link_img {
-   width: 100%;
-}
+ }
+ .footer-nav__link_img {
+    width: 100%;
+ }
+ 
