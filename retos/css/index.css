@@ -66,7 +66,7 @@
     margin: 0;
 }
 .article__card-description::after {
-    content: "🥺";
+    content: "🔫 ";
 }
 
 .footer  {
@@ -93,11 +93,11 @@
 .footer-nav_link {
    display: flex;
    width: 256px;
-   transition: all 0.25s;
+   transition: all 1s;
 }
 .footer-nav_link:hover{
     transform: scale(1.25) rotate(360deg);
-    filter: brightness(150%);
+    filter: brightness(200%);
 }
 .footer-nav__link_img {
    width: 100%;
