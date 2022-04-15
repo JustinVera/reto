@@ -92,7 +92,7 @@
 }
 .footer-nav_link {
    display: flex;
-   width: 3rem;
+   width: 256px;
    transition: all 0.25s;
 }
 .footer-nav_link:hover{
